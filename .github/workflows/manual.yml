@@ -16,4 +16,4 @@ jobs:
           embold-token: ${{ secrets.EMBOLD_TOKEN }}
           repo-config: '/github/workspace/repository-configuration.json'
           repo-uid: '77357e2c3fc68d3302a75457ff004b67'
-          verbose: false
+          verbose: true
