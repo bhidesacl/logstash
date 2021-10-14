@@ -17,7 +17,7 @@ jobs:
         id: embold
         uses: embold/github-action-docker@v0.2
         env:
-          RBENV_VERSION: 2.7.0p0
+          RBENV_VERSION: 3.0.0
         with:
           embold-url: 'https://oss.emboldci.dev'
           embold-token: ${{ secrets.EMBOLD_TOKEN }}
