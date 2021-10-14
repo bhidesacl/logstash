@@ -17,3 +17,4 @@ jobs:
           repo-config: '/github/workspace/repository-configuration.json'
           repo-uid: '77357e2c3fc68d3302a75457ff004b67'
           verbose: true
+
